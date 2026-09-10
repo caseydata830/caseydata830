@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Casey (@caseydata830) 👋
 
-<!--
-**caseydata830/caseydata830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Seoul. I spend weekdays building backend APIs and weekends shipping indie web projects.
 
-Here are some ideas to get you started:
+#### What I'm up to:
+- Building simple, fast web apps with FastAPI and React
+- Heavy focus on zero-bloat infra (big fan of SQLite on single-node VPS)
+- Currently exploring local LLM wrappers and lightweight automation pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Core toolbox:
+- **Languages:** TypeScript, Python, SQL
+- **Frameworks:** React, Next.js, FastAPI
+- **Data:** SQLite, PostgreSQL, Redis
+- **Ops:** Docker, Linux, Caddy
+
+#### Connect:
+- Web: [data830.dev](https://data830.dev)
+- Twitter/X: [@caseydata830](https://x.com/caseydata830)
+- Email: casey@data830.dev
